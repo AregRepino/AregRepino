@@ -1,7 +1,7 @@
 ### 👋 Hi, my name is **Areg Amirkhanyan**!
 ## I'm beginner *Java programmer* from Saint-Petersburg.
 ### Languages and Technologies
-![Java](https://img.shields.io/badge/-Java-090909?style=social&Java=Java)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 <!--
 **AregRepino/AregRepino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 //

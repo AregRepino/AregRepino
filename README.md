@@ -5,6 +5,7 @@
 
 ## I'm beginner *Java programmer* from Saint-Petersburg.
 ###Languages and Technologies
+![Java](https://img.shields.io/static/Java-?style=for-the-badge&logo=appveyor)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
